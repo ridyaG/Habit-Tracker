@@ -16,7 +16,7 @@ As a user, I want to see a personalized welcome message with my name on the home
 * Priority: Medium
 * Story Points: 2
 
-!! Notes:
+### Notes:
 * Personalization helps user confirm active account.
 
 ## Story 2: Display Weekly Progress
@@ -35,7 +35,7 @@ As a user, I want to see my daily progress for each habit on the homepage, so th
 * Priority: High
 * Story Points: 3
 
-!! Notes:
+### Notes:
 * Progress displayed using a bar, graph, or streak counter.
 
 # Story 3: View Completed Habits
@@ -54,5 +54,5 @@ As a user, I want to see a section for completed habits on the homepage, so that
 * Priority: Medium
 * Story Points: 2
 
-!! Notes:
+### Notes:
 * Section hidden if no habits are completed.
