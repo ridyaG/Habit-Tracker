@@ -38,7 +38,7 @@ As a user, I want to see my daily progress for each habit on the homepage, so th
 ### Notes:
 * Progress displayed using a bar, graph, or streak counter.
 
-# Story 3: View Completed Habits
+## Story 3: View Completed Habits
 
 ### Title:
 As a user, I want to see a section for completed habits on the homepage, so that I can track what I have already achieved.
