@@ -3,7 +3,7 @@ Story 1: Account Registration
 Title:
 As a user, I want to register with my name, username, age, and country, so that I can create an account and access the habit tracking features.
 
-## Acceptance Criteria:
+ Acceptance Criteria:
 
 1. Registration form includes fields for name, username, age, and country.
 
