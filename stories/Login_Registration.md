@@ -17,7 +17,6 @@ After registration, the user is redirected to the homepage.
 * Story Points: 3
 
 ### Notes:
-
 * Credentials are stored temporarily (not in browser cache).
 
 * User cannot log in with registered details after logout — only via default credentials.
@@ -41,5 +40,23 @@ As a user, I want to log in using my username and password, so that I can access
 * Story Points: 2
 
 ### Notes:
-
 * Default credentials used after logout for re-login.
+
+# Story 3: Error Feedback on Login
+
+### Title:
+As a user, I want to receive a message if I enter the wrong username or password, so that I know my login attempt was unsuccessful.
+
+### Acceptance Criteria:
+
+1. Invalid login triggers an error message “Incorrect username or password.”
+
+2. The message disappears after a few seconds or when user retries.
+
+3. System doesn’t reveal which field was incorrect (for security).
+
+* Priority: Medium
+* Story Points: 1
+
+### Notes:
+* Prevents brute-force guessing; generic error for wrong credentials.
