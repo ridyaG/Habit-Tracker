@@ -3,7 +3,7 @@ Story 1: Account Registration
 Title:
 As a user, I want to register with my name, username, age, and country, so that I can create an account and access the habit tracking features.
 
-Acceptance Criteria:
+## Acceptance Criteria:
 
 1. Registration form includes fields for name, username, age, and country.
 
@@ -13,8 +13,8 @@ Acceptance Criteria:
 
 After registration, the user is redirected to the homepage.
 
-Priority: High
-Story Points: 3
+** Priority: High
+** Story Points: 3
 Notes:
 
 * Credentials are stored temporarily (not in browser cache).
